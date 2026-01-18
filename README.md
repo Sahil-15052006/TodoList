@@ -1,6 +1,6 @@
 # JavaScript To-Do List 📝
 
-A simple To-Do List application built using **HTML, CSS, and Vanilla JavaScript** as a practice project.
+A simple To-Do List application built using **HTML, CSS, and JavaScript** as a practice project.
 
 ## 🔹 Features
 - Add new tasks
